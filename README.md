@@ -1,26 +1,26 @@
 ---
-description: Guide you hand-by-hand to get and play Battlefield 2142 in 2024!
+description: 手把手教你如何在2024年獲取並遊玩 《戰地風雲 2142》！
 ---
 
-# Homepage
+# 首頁
 
-If you are still yearning to experience the thrill of Battlefield 2142 once more, or if you are lost on where to find a copy of this classic game, look no further! Join us today in reliving the glory days of Battlefield 2142! We will make sure to get you back in action in no time!
+如果你仍然渴望再次體驗 《戰地風雲 2142》 的刺激，或者不知道去哪裡下載這款經典遊戲，那麼不妨加入我們！今天就和我們一起重溫 《戰地風雲 2142》 的輝煌時刻吧！我們會確保你很快就能重返戰場！
 
 {% hint style="success" %}
 We would greatly appreciate your support by considering an upvote[^1] for this page.
 {% endhint %}
 
-### About Us
+### 關於我們
 
-GetBF2142 is a passion project created by die-hard fans of the franchise. Ever since [GameSpy shutdown](https://en.wikipedia.org/wiki/GameSpy#Shutdown) in June 2014, finding a way to play online or with friends has become quite a challenge. For those who still cherish this game today, we understand your struggles, and that's why we have put together this website.
+GetBF2142 是一個由戰地風雲系列死忠粉絲創建的項目。自從 [GameSpy 在2014年6月關閉](https://en.wikipedia.org/wiki/GameSpy#Shutdown)後，想要在線或與朋友一起玩這款遊戲變得相當困難。對於今天仍然珍愛這款遊戲的人，我們理解你的困難，這就是為什麼我們創建了這個網站。
 
-Our goal is simple: to provide all the resources and information you need in one place, so you can swiftly dive back into this 15-year-old gem and have a blast in no time!&#x20;
+我們的目標很簡單：提供所有你需要的資源和資訊，讓你可以迅速重新遊玩這款15年歷史的神作，並且立即享受其中的樂趣！
 
-No ads, no revenue — our intentions are pure. We invested our own money to buy the domain and spent countless hours maintaining the content up-to-date. What we are trying to do is just to make things easier for everyone so that more people can come back to enjoy this masterpiece.
+沒有廣告，沒有收入——我們的初衷非常純粹。我們投入自己的資金購買域名，並花費無數小時來保持內容的更新。我們只是想讓一切變得更簡單，讓更多人能夠回來一起享受這部遊戲。
 
-We do not condone piracy or copyright infringement — we respect EA and DICE for creating this masterpiece. But as the game was left behind and no better alternatives existed, we have no choice but to resort to our very own ways to make the game stays alive for those who still want to play this old title.
+我們不贊成盜版或侵犯版權——我們尊重 EA 和 DICE 創造的這部傑作。但是由於遊戲被遺忘且沒有更好的替代方案存在，我們別無選擇，只能採取我們自己的方法來讓這款老遊戲繼續生存，讓那些仍然想玩這款老遊戲的人可以繼續享受。
 
-If you still have any reservations about our project, feel free to reach out to us. We are always open to address your concerns together.
+如果你對我們的項目還有任何疑慮，請隨時與我們聯繫。我們隨時準備與你一起解決你的問題。
 
 ### BF2142 in 2024
 

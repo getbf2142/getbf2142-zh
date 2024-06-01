@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Homepage](README.md)
+* [首頁](README.md)
 
 ## Quick Links
 
