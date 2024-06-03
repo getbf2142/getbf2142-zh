@@ -2,15 +2,15 @@
 
 * [首頁](README.md)
 
-## Quick Links
+## 快速連結 <a href="#quick-links" id="quick-links"></a>
 
 * [❇ Discord Group](https://discord.gg/DaMVNknVnV)
-* [❇ Download Battlefield 2](https://discord.gg/DaMVNknVnV)
-* [❇ Download Battlefield 2142](https://docs.getbf2142.net/getting-started/1.-installing-base-game)
+* [❇ 下載 《戰地風雲 2》](https://discord.gg/DaMVNknVnV)
+* [❇ 下載 《戰地風雲 2142》](https://docs.getbf2142.net/getting-started/1.-installing-base-game)
 
-## Getting Started
+## 開始教程 <a href="#getting-started" id="getting-started"></a>
 
-* [① Install BF2142 base game](getting-started/1.-installing-base-game.md)
+* [① 安裝 《戰地風雲2142》 主遊戲](getting-started/1.-installing-base-game.md)
 * [② Update BF2142 to v1.51](getting-started/2.-installing-v1.51-patch.md)
 * [③ Install ​Remaster mod](getting-started/3.-installing-project-remaster.md)
 * [☆ Before proceeding ...](getting-started/before-proceeding.md)
@@ -41,9 +41,9 @@
 * [❇ BF2142 First Strike](https://www.moddb.com/mods/first-strike)
 * [❇ BF2142 Reclamation](https://battlefield2142.co/)
 
-## Others
+## 其他 <a href="#others" id="others"></a>
 
-* [Contact Us](others/contact-us.md)
-* [Disclaimer](others/disclaimer.md)
-* [Support](https://discord.gg/DaMVNknVnV)
-* [Manual](https://drive.google.com/file/d/1bimGHQ7c1pBk7Db2QkXHRW81G6UHpcVS/view)
+* [聯絡我們](others/contact-us.md)
+* [免責聲明](others/disclaimer.md)
+* [使用手冊](https://drive.google.com/file/d/1bimGHQ7c1pBk7Db2QkXHRW81G6UHpcVS/view)
+* [支援](https://discord.gg/DaMVNknVnV)
