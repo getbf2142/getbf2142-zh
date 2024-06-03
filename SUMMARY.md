@@ -4,9 +4,9 @@
 
 ## 快速連結 <a href="#quick-links" id="quick-links"></a>
 
-* [❇ Discord Group](https://discord.gg/DaMVNknVnV)
-* [❇ 下載 《戰地風雲 2》](https://discord.gg/DaMVNknVnV)
-* [❇ 下載 《戰地風雲 2142》](https://docs.getbf2142.net/getting-started/1.-installing-base-game)
+* [❇️ Discord Group](https://discord.gg/DaMVNknVnV)
+* [❇️ 下載 《戰地風雲 2》](https://discord.gg/DaMVNknVnV)
+* [❇️ 下載 《戰地風雲 2142》](https://docs.getbf2142.net/getting-started/1.-installing-base-game)
 
 ## 開始教程 <a href="#getting-started" id="getting-started"></a>
 
@@ -36,10 +36,10 @@
 
 ## Community Projects
 
-* [❇ BF2142 Remaster](https://www.moddb.com/mods/project-remaster)
-* [❇ BF2142 Reworked](https://mozziefiles.wixsite.com/bf2142)
-* [❇ BF2142 First Strike](https://www.moddb.com/mods/first-strike)
-* [❇ BF2142 Reclamation](https://battlefield2142.co/)
+* [❇️ BF2142 Remaster](https://www.moddb.com/mods/project-remaster)
+* [❇️ BF2142 Reworked](https://mozziefiles.wixsite.com/bf2142)
+* [❇️ BF2142 First Strike](https://www.moddb.com/mods/first-strike)
+* [❇️ BF2142 Reclamation](https://battlefield2142.co/)
 
 ## 其他 <a href="#others" id="others"></a>
 
