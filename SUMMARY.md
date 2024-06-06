@@ -11,7 +11,7 @@
 ## 開始教程 <a href="#getting-started" id="getting-started"></a>
 
 * [① 安裝 《戰地風雲2142》 主遊戲](getting-started/1.-installing-base-game.md)
-* [② Update BF2142 to v1.51](getting-started/2.-installing-v1.51-patch.md)
+* [② 更新 BF2142 到 v1.51](getting-started/2.-installing-v1.51-patch.md)
 * [③ Install ​Remaster mod](getting-started/3.-installing-project-remaster.md)
 * [☆ Before proceeding ...](getting-started/before-proceeding.md)
 * [④ Install ​BF2142 Hub](getting-started/4.-installing-bf2142-hub.md)
